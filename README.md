@@ -1,4 +1,5 @@
 # QRCode-Generator-JS
+#### Author: Bocaletto Luca
 
 QRCode-Generator-JS is a responsive web application developed by Bocaletto Luca that allows users to generate QR codes from any text or URL in real time. The app features a sleek, professional user interface and provides an option to download the generated QR code as a PNG image.
 
